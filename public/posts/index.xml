@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on indexdos </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://indexdos2.appspot.com/posts/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 02 Oct 2014 18:28:24 CEST</updated>
+    
+    <item>
+      <title>my new post</title>
+      <link>http://indexdos2.appspot.com/posts/my-new-post/</link>
+      <pubDate>Thu, 02 Oct 2014 18:28:24 CEST</pubDate>
+      
+      <guid>http://indexdos2.appspot.com/posts/my-new-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;HOLA HOLA&lt;/h2&gt;
+
+&lt;p&gt;HOAL HOALAAASDSDASD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
